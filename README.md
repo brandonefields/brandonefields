@@ -4,5 +4,3 @@
 #### I am a life long learner, who one day decided to code.
 ##### I am a avid rock climber who currently lives in Golden, CO.
 
-``` alert("Yo! Im a Javascript alert!");```
-
