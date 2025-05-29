@@ -2,5 +2,5 @@
 ## Thank you, for visiting my github!
 ---
 #### I am a life long learner, who one day decided to code and now I love it!!
-##### I am a avid rock climber who currently lives in Golden, CO.
+
 
